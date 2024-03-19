@@ -6,17 +6,15 @@ A simple weather tracking site that allows users to toggle between cities to see
 
 A weather dashboard that allows users to toggle between multiple cities of interest to see the current weather and a five-day forecast. This is a group project exploring the use of 3rd-party APIs as well as DOM manipulation.
 
-## Link to Live Page
+## Links
 
-https://melissacade.github.io/weather-dashboard/
+Git Hub: https://github.com/PeteOottamakorn/weather-forecast
+
+Git Page: https://peteoottamakorn.github.io/weather-forecast/
 
 ## Screenshot of Site
 
 ![screenshot](assets/images/Screenshot%202024-03-15%20215742.png)
-
-## Installation
-
-N/A
 
 ## Usage
 
@@ -36,10 +34,13 @@ Any cities searched will remain on the sidebar as a button to be toggled between
 
 ## Contributors
 
-https://github.com/MelissaCade
-https://github.com/PeteOottamakorn
-https://github.com/vicduar
-https://github.com/chrisjames1724
+Pete Oottamakorn - https://github.com/PeteOottamakorn
+
+Melissa Cade - https://github.com/MelissaCade
+
+Victor Duarte - https://github.com/vicduar
+
+Chris Cummings - https://github.com/chrisjames1724
 
 ## Credits
 
